@@ -1,0 +1,14 @@
+  
+{
+  "marca": "Samsung",
+  "modelo": "Galaxy S21",
+  "procesador": "Exynos 2100",
+  "memoriaRAM": 8,
+  "almacenamiento": 128,
+  "pantalla": "Dynamic AMOLED 2X",
+  "sistemaOperativo": "Android 11",
+  "cámaraTrasera": "Triple cámara con 64 MP",
+  "cámaraFrontal": "Single cámara con 10 MP",
+  "batería": "4000 mAh con carga rápida y inalámbrica"
+}
+
